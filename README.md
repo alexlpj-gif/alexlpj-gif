@@ -42,6 +42,14 @@ Currently at **CYBERBIZ Corporation** as Business Development — bridging data 
 
 </div>
 
+**🤖 AI Tools**
+ 
+<div align="center">
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva_AI-00C4CC?style=flat-square&logo=canva&logoColor=white)
+ 
+</div>
+
 ---
 
 ## 📂 Featured Projects
