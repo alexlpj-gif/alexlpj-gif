@@ -39,15 +39,9 @@ Currently at **CYBERBIZ Corporation** as Business Development — bridging data 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-
-</div>
-
-**🤖 AI Tools**
- 
-<div align="center">
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva_AI-00C4CC?style=flat-square&logo=canva&logoColor=white)
- 
+
 </div>
 
 ---
